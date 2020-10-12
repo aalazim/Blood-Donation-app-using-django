@@ -1,5 +1,10 @@
 # Blood Donation (**weBlood**) web app using Django
-### This project is updated, modified from [base project](https://github.com/shoab35/weblood-project?files=1 "weblood") made by _Abdullah Al Azim, Shoab Mahmud Miad, NHM Ahsanul Gani Faysal, Tania Isa and Mahedi Hasan_ 
+#### This project is updated, modified from [base project](https://github.com/shoab35/weblood-project?files=1 "weblood") and made by
+1. _Abdullah Al Azim_
+1. _Shoab Mahmud Miad_
+1. _NHM Ahsanul Gani Faysal_
+1. _Tania Isa_
+3. _Mahedi Hasan_
 
 ### Framework and packages we use are
 * Django 3.0.1
@@ -10,4 +15,4 @@
 
 `superuser`: _weblood_
 
-`seperuser_pass`: _bloodforeveryone_ 
+`seperuser_pass`: _bloodforeveryone_
