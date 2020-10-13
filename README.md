@@ -7,10 +7,10 @@
 3. _Mahedi Hasan_
 
 ### Framework and packages we use are
-* Django 3.0.1
-* bcrypt 3.1.7
+* Django 3.1.2
+* bcrypt 3.2.0
 * pillow 6.2.1
-* django-crispy-forms 1.8.1
+* django-crispy-forms 1.9.2
 * argon2-cffi 19.2.0
 
 `superuser`: _weblood_
